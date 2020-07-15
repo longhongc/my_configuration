@@ -4,4 +4,7 @@ This repository stores all my configuration files, including vim, shell, git, et
 
 ## File Structure
 ```
+git
+oh-my-zsh
+vim
 ```
