@@ -7,4 +7,5 @@ This repository stores all my configuration files, including vim, shell, git, et
 git
 oh-my-zsh
 vim
+fzf
 ```
