@@ -8,4 +8,8 @@ git
 oh-my-zsh
 vim
 fzf
+terminal:
+  tree- sudo apt install tree
+  bat - sudo apt install bat
+        batcat {filename}
 ```
