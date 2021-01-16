@@ -10,3 +10,6 @@ map k <Down>
 noremap h i
 set number relativenumber
 nnoremap <F2> :set norelativenumber!<CR>
+set tabstop=4
+set shiftwidth=4
+set expandtab
