@@ -15,3 +15,4 @@ set shiftwidth=4
 set expandtab
 set showcmd
 set autoindent
+set wildmenu
