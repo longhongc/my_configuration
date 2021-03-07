@@ -1,5 +1,5 @@
 set t_Co=256
-color torte
+colorscheme torte
 set cursorline
 hi CursorLine cterm=none ctermbg=DarkMagenta ctermfg=White
 set wrap
