@@ -8,8 +8,9 @@ map i <Up>
 map j <Left>
 map k <Down>
 noremap h i
+vmap h I
 set number relativenumber
-nnoremap <F2> :set norelativenumber!<CR>
+nnoremap <F2> :set nonumber norelativenumber!<CR>
 set tabstop=4
 set shiftwidth=4
 set expandtab
